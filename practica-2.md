@@ -12,5 +12,6 @@ Como lo único que me interesa es reconocer si soy capaz de insertar imágenes e
 
 ### Inserción de imagen desde _GitHub_
 ¿Conseguirá Adhik insertar la imagen?
+
 ![Deforestación mundial infografía](https://camo.githubusercontent.com/3ba13c3f79d78c8c776815ad6a3d4ef6d861c8b41576a3e6e595aa963bf5ceaf/68747470733a2f2f692e70696e696d672e636f6d2f353634782f33392f61312f31642f33396131316464636331383137623166626566666266326566373831396235652e6a7067)
 #### Resultado:
