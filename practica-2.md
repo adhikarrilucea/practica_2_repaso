@@ -24,9 +24,10 @@ Como lo único que me interesa es reconocer si soy capaz de insertar imágenes e
 
 
 #### Resultado: Más o menos[^1]
+[^1]: Es que desde la **terminal** no se puede copiar y pegar el link, y este es irrisoriamente largo.
 
 ##### Inserción desde _GitHub_
 
 ![Un gráfico cuanto menos](https://camo.githubusercontent.com/40da2634e5d601a393dc195f022c7c790e8afc9a4bf21b794e43f4f144eaecec/68747470733a2f2f7777772e656e6572676961732d72656e6f7661626c65732e636f6d2f6669636865726f656e6572676961732f666f746f732f6167656e64612f6f726967696e616c2f632f636f6265727475726164656c6164656d616e6461323032302e6a7067)
 
-[^1]: Es que desde la **terminal** no se puede copiar y pegar el link, y este es irrisoriamente largo.
+
